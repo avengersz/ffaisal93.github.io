@@ -12,6 +12,6 @@ This is Fahim Faisal's home on the web!.
 
 Interests
 ======
-Understanding & Processing Language
-Science
-Seeing the world
+- Science
+- Seeing the world
+- Understanding & Processing Language
